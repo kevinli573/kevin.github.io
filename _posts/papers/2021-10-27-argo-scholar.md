@@ -29,7 +29,7 @@ selected: true
 featured: true
 feature-order: 1
 feature-title: Argo Scholar
-feature-description: Generalizing confusion matrix visualization to hierarchical and multi-output labels
+feature-description: Exploration of Literature with Interactive Visualization
 image: /images/papers/21-argo-scholar.png
 coming-soon: false
 
