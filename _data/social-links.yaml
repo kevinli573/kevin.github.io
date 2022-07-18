@@ -15,7 +15,7 @@
   cv-group: 1
 
 - id: twitter
-  description: "@KevinYLi_"
+  description: "@kevinyli_"
   color: "#1da1f2"
   class: "fab fa-twitter icon"
   url: https://twitter.com/KevinYLi_

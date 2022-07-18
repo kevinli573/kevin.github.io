@@ -4,6 +4,4 @@ title: Bio
 permalink: bio/
 ---
 
-Fred Hohman is a Research Scientist at Apple where he designs and develops interactive interfaces to help people understand machine learning models and data-driven systems. Besides building tools, he also creates data visualizations and writes interactive articles to simply communicate complex ideas.
-
-He received his Ph.D. from Georgia Tech where he worked with Polo Chau and Alex Endert on enabling machine learning interpretability at scale and for everyone. His dissertation won the ACM SIGCHI Outstanding Dissertation Award, the Georgia Tech College of Computing Dissertation Award, and was supported by the NASA Space Technology Research Fellowship. Throughout his research he has collaborated with designers, developers, artists, and scientists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab. Fred has published across top conferences in human-computer interaction and machine learning, including interactive journals like Distill, and has won awards at CHI, KDD, VIS, and SIGMOD. He received his B.S. in mathematics and physics.
+Kevin Li is a current Computer Science and Biomedical Engineering undergrad at Georgia Tech. He is advised by Polo Chau, who is the PI of Polo Club of Data Science. Kevin's interests encompass the intersection of machine learning and human-computing interaction and deep learning. He enjoys working on projects that utilize deep learning architectures or aim to interpret and understand how machine learning models learn.
