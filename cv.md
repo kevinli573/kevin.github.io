@@ -6,9 +6,7 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
-
-<p id="cv-subtitle"><i>Research Scientist (<span class="cv-vis">HCI</span> + <span class="cv-ai">ML</span>)</i></p>
+<h1 id="cv-title"><a href="{{ site.url }}">Kevin Li</a></h1>
 
 <!-- <div id="cv-toc">
 <ul class="cv-description">
@@ -30,13 +28,7 @@ jsarr:
 </div> -->
 
 <div>
-I design and develop <b><span class="cv-vis">interactive interfaces</span></b> to help people <b><span class="cv-ai">understand machine learning</span></b> models and data-driven systems. Besides building tools, I also create data visualizations and write interactive articles to simply communicate complex ideas.
-</div>
-
-<div class="cv-spacer"></div>
-
-<div>
-I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+My interests encompass the intersection of <b>machine learning and human-computing interaction</b> and <b>deep learning</b>. I enjoy working on projects that utilize deep learning architectures or aim to interpret and understand how machine learning models learn.
 </div>
 
 <!-- <div class="cv-spacer"></div>
@@ -74,18 +66,25 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% endfor %}
 {:/}
 
-## Industry Research Experience
+<!-- ## Industry Research Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'industry' %}
 {% include cv/experience.html experience=experience %}
 {% endif %}
-{% endfor %}
-
+{% endfor %} -->
 ## Academic Research Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'academic' %}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %}
+
+## Industry Experience
+
+{% for experience in site.data.experiences %}
+{% if experience.type == 'industry' %}
 {% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
@@ -98,19 +97,19 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 ## Publications
 
-### Selected: Latest & Greatest
+<!-- ### Selected: Latest & Greatest
 
 {% assign selectedBoolForBibtex = true %}
 
 {% assign selected = site.categories.papers | where: 'selected', true %}
 {% for pub in selected %}
 {% include cv/publication.html pub=pub %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- ### All Publications -->
 
 {% assign selectedBoolForBibtex = false %}
-
+<!-- 
 ### Journal
 
 {% assign journal = site.categories.papers | where: 'type', "journal" %}
@@ -130,7 +129,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% assign workshop = site.categories.papers | where: 'type', "workshop" %}
 {% for pub in workshop %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
+{% endfor %} -->
 
 ### Poster
 
@@ -139,7 +138,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-### Demo
+<!-- ### Demo
 
 {% assign demo = site.categories.papers | where: 'type', "demo" %}
 {% for pub in demo %}
@@ -151,14 +150,14 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% assign preprint = site.categories.papers | where: 'type', "misc" %}
 {% for pub in preprint %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
+{% endfor %} -->
 
-## Talks
+<!-- ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
 {% include cv/talk.html talk=title %}
-{% endfor %}
+{% endfor %} -->
 
 ## Press
 
@@ -172,28 +171,27 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/teaching.html teach=teach %}
 {% endfor %}
 
-## Mentoring
+<!-- ## Mentoring
 
 {::nomarkdown}
 {% for mentee in site.data.mentoring %}
 {% include cv/mentee.html mentee=mentee %}
 {% endfor %}
-{:/}
+{:/} -->
 
-## Grants and Funding
+<!-- ## Grants and Funding
 
 {% for fund in site.data.funding %}
 {% include cv/fund.html fund=fund %}
-{% endfor %}
+{% endfor %} -->
 
-## Interactive Articles
+<!-- ## Interactive Articles
 
 {% for article in site.data.articles %}
 {% unless article.feature-only %}
 {% include cv/article.html article=article %}
 {% endunless %}
-{% endfor %}
-
+{% endfor %} -->
 
 <!-- ## Technology Skills
 
@@ -203,36 +201,41 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 ## Service
 
-<div class="cv-service-title"><b>Organizer</b></div>
+<div class="cv-service-title"><b>Educational Outreach</b></div>
+{% for outreach in site.data.educational-outreach %}
+{% include cv/educational-outreach.html outreach=outreach %}
+{% endfor %}
+
+<!-- <div class="cv-service-title"><b>Organizer</b></div>
 {% for venue in site.data.organizer %}
 {% include cv/venue.html venue=venue %}
-{% endfor %}
+{% endfor %} -->
 
-<div class="cv-service-title"><b>Program Commitee</b></div>
+<!-- <div class="cv-service-title"><b>Program Commitee</b></div>
 {% for venue in site.data.pc %}
 {% include cv/venue.html venue=venue %}
-{% endfor %}
+{% endfor %} -->
 
-<div class="cv-service-title"><b>Reviewer</b></div>
+<!-- <div class="cv-service-title"><b>Reviewer</b></div>
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
-{% endfor %}
+{% endfor %} -->
 
-<div class="cv-service-title"><b>Institutional</b></div>
+<!-- <div class="cv-service-title"><b>Institutional</b></div>
 {% for institution in site.data.institutional %}
 {% include cv/institutional.html institution=institution %}
-{% endfor %}
+{% endfor %} -->
 
-<div class="cv-service-title"><b>Member</b></div>
+<!-- <div class="cv-service-title"><b>Member</b></div>
 {% for member in site.data.memberships %}
 {% include cv/member.html member=member %}
-{% endfor %}
+{% endfor %} -->
 
-## Design
+<!-- ## Design
 
 {% for design in site.data.designs %}
 {% include cv/design.html design=design %}
-{% endfor %}
+{% endfor %} -->
 
 ## References
 
