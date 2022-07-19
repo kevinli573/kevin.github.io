@@ -2,7 +2,7 @@
   location: "San Diego, CA"
   position: Data Engineer Intern
   group: "Autonomous Driving"
-  year: "Aug. 2022 — May 2022"
+  year: "May 2022 — Aug. 2022"
   institution-url: https://www.qualcomm.com/products/application/automotive
   type: industry
 
@@ -10,7 +10,7 @@
   location: "Seattle, WA"
   position: Software Development Engineer Intern
   group: "Tax Team"
-  year: "July 2021 — May 2021"
+  year: "May 2021 — July 2021"
   description: "Designed workflow to improve existing error identification system that validates all tax calculations for AWS users."
   institution-url: https://aws.amazon.com
   type: industry
@@ -18,7 +18,7 @@
 - institution: Georgia Tech Office of Information and Technology
   location: "Atlanta, GA"
   position: Team Lead and Web Developer
-  year: "Dec. 2020 — July 2020"
+  year: "July 2020 — Dec. 2020"
   description: "Led standups, managed hiring for the fall, and engaged with 3 clients regarding content deployment strategy."
   institution-url: https://gatech.com
   type: industry
@@ -27,7 +27,7 @@
   location: "Atlanta, GA"
   position: Undergraduate Research Assistant
   group: Polo Club of Data Science
-  year: "Present — Aug. 2020"
+  year: "Aug. 2020 - Present"
   mentors: 
     - Duen Horng (Polo) Chau
   advisor: true
@@ -40,7 +40,7 @@
   location: "Atlanta, GA"
   position: Student Researcher
   group: Laboratory for Intelligent Decision and Autonomous Robots (LIDAR) Lab
-  year: "Dec. 2019 — Jan. 2019"
+  year: "Jan. 2019 — Dec. 2019"
   mentors: 
     - Ye Zhao
   advisor: true
