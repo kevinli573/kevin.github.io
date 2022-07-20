@@ -15,6 +15,10 @@ title: Home
 	<div class="intro-left">
 		My interests encompass the intersection of <b>machine learning and human-computing interaction</b> and <b>deep learning</b>. I enjoy working on projects that utilize deep learning architectures or aim to interpret and understand how machine learning models learn.
 	</div>
+	<div style="height: 1rem"></div>
+	<div class="intro-left">
+		I have worked at Amazon Web Services (AWS) as a Software Developer Engineer intern and Qualcomm's Autonomous Driving project as a Data Engineer intern. 
+	</div>
 </div>
 
 <div class="intro-right">
