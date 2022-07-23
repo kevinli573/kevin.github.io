@@ -30,6 +30,27 @@
 #       year={2020},
 #       organization={ACM}
 #     }
+- id: neuro-mapper
+  title: "NeuroMapper: In-browser Visualizer for Neural Network Training"
+  authors: 
+    - Zhiyan Zhou
+    - Kevin Li
+    - Haekyu Park
+    - Megan Dass
+    - Austin Wright
+    - Nilaksh Das
+    - Duen Horng Chau
+  venue: "IEEE VIS: Visualization & Visual Analytics"
+  venue-shorthand: IEEE VIS
+  location: Virtual
+  year: 2022
+  url: /papers/neuromapper
+  # pdf: /papers/21-argo-scholar-poster.pdf
+  # poster: /assets/argo_scholar_poster.pdf
+  # code: https://github.com/poloclub/argo-scholar
+  # award: Best Poster, Honorable Mention
+  type: poster
+  coming-soon: true
 
 - id: argo-scholar
   title: "Argo Scholar: Interactive Visual Exploration of Literature in Browsers"

@@ -1,7 +1,7 @@
 ---
 layout: paper
 categories: papers
-permalink: papers/argo
+permalink: papers/argo-scholar
 id: argo-scholar
 title: "Argo Scholar: Interactive Visual Exploration of Literature in Browsers"
 authors: 
