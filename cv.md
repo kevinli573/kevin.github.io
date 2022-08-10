@@ -66,6 +66,12 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% endfor %}
 {:/}
 
+## Honors and Awards
+
+{% for award in site.data.awards %}
+{% include cv/award.html award=award %}
+{% endfor %}
+
 <!-- ## Industry Research Experience
 
 {% for experience in site.data.experiences %}
@@ -87,12 +93,6 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% if experience.type == 'industry' %}
 {% include cv/experience.html experience=experience %}
 {% endif %}
-{% endfor %}
-
-## Honors and Awards
-
-{% for award in site.data.awards %}
-{% include cv/award.html award=award %}
 {% endfor %}
 
 ## Publications

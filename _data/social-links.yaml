@@ -47,7 +47,7 @@
   cv-group: 1
 
 - id: cv-web
-  description: <b>Click here for my CV</b>
+  description: <b>Click here for my full CV</b>
   color: "#515151"
   class: "fa fa-address-card icon"
   url: "/cv"

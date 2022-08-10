@@ -81,9 +81,9 @@ $cv-icon-aspect-ratio: 1.33;
 }
 
 .feature-title {
-	margin-top: 2.5rem;
+	margin-top: 0.5rem;
 	margin-bottom: 1rem;
-	font-size: 2rem;
+	font-size: 1.5rem;
 	font-weight: 400;
 	// text-align: center;
 }
@@ -105,8 +105,8 @@ $cv-icon-aspect-ratio: 1.33;
 	text-align: center;
 	grid-column: 1fr;
 	display: flex;
-    flex-direction: column;
-    justify-content: center;
+	flex-direction: column;
+	justify-content: center;
 	transition: all .2s ease-in-out;
 }
 
@@ -114,6 +114,10 @@ $cv-icon-aspect-ratio: 1.33;
 	text-decoration: none;
 	background: $black-05;
 	transform: scale(1.03);
+}
+
+.home-hr {
+	margin: 1.5em 0 0.25em;
 }
 
 
