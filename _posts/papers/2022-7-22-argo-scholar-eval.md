@@ -23,7 +23,6 @@ code: https://github.com/poloclub/argo-scholar
 # award: Best Poster, Honorable Mention
 type: poster
 figure: /images/papers/21-argo-scholar.png
-unpublished: false
 # doi: "10.48550/arXiv.2110.14060"
 
 # highlight:
