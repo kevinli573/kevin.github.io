@@ -138,14 +138,14 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-<!-- ### Demo
+### Demo
 
 {% assign demo = site.categories.papers | where: 'type', "demo" %}
 {% for pub in demo %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-### Miscellaneous
+<!-- ### Miscellaneous
 
 {% assign preprint = site.categories.papers | where: 'type', "misc" %}
 {% for pub in preprint %}

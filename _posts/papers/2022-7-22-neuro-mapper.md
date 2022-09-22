@@ -14,7 +14,7 @@ authors:
   - Duen Horng Chau
 venue: "IEEE VIS: Visualization & Visual Analytics"
 venue-shorthand: IEEE VIS
-location: Virtual
+location: Oklahoma City, OK
 year: 2022
 url: /papers/neuromapper
 # pdf: /papers/21-argo-scholar-poster.pdf
