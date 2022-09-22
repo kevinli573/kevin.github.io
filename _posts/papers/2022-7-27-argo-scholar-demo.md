@@ -3,7 +3,7 @@ layout: paper
 categories: papers
 permalink: papers/argo-scholar-demo
 id: argo-scholar-demo
-title: "Argo Scholar: Interactive Visual Exploration of Literature in Browsers"
+title: "Visual Exploration of Literature with Argo Scholar"
 authors: 
   - Kevin Li
   - Haoyang Yang
