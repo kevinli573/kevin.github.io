@@ -27,7 +27,7 @@ doi: "10.48550/arXiv.2110.14060"
 # highlight:
 selected: true
 featured: true
-feature-order: 1
+feature-order: 2
 feature-title: Argo Scholar
 feature-description: Exploration of Literature with Interactive Visualization
 image: /images/papers/21-argo-scholar.png

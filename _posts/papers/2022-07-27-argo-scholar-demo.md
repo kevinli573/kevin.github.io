@@ -21,7 +21,7 @@ url: /papers/argo-scholar-demo
 # poster: /assets/argo_scholar_poster.pdf
 code: https://github.com/poloclub/argo-scholar
 type: demo
-figure: /images/papers/22-argo-scholar.pdf
+figure: /images/papers/22-argo-scholar.png
 doi: "10.1145/3511808.3557177"
 
 # highlight:
@@ -30,7 +30,7 @@ featured: true
 feature-order: 2
 feature-title: Argo Scholar
 feature-description: Visual Exploration of Literature with Argo Scholar
-image: /images/papers/22-argo-scholar.pdf
+image: /images/papers/22-argo-scholar.png
 coming-soon: true
 
 # bibtex: |-
