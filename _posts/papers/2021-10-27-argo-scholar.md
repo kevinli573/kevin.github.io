@@ -16,13 +16,13 @@ venue-shorthand: IEEE VIS
 location: Virtual
 year: 2021
 url: /papers/argo-scholar
-pdf: /papers/21-argo-scholar-poster.pdf
-poster: /assets/argo_scholar_poster.pdf
+pdf: /papers/21-vis-argo-scholar.pdf
+poster: /assets/21-vis-argo-scholar-poster.pdf
 code: https://github.com/poloclub/argo-scholar
 award: Best Poster, Honorable Mention
 type: poster
 figure: /images/papers/21-argo-scholar.png
-doi: "10.48550/arXiv.2110.14060"
+# doi: "10.48550/arXiv.2110.14060"
 
 # highlight:
 selected: true
@@ -40,7 +40,7 @@ bibtex: |-
     author={Kevin Li and H. Yang and Anish Upadhayay and Zhiyan Zhou and Jon Saad-Falcon and Duen Horng Chau},
     journal={ArXiv},
     year={2021},
-    volume={abs/2110.14060
+    volume={abs/2110.14060}
   }
 ---
 
