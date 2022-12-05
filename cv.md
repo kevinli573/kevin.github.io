@@ -206,6 +206,10 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/educational-outreach.html outreach=outreach %}
 {% endfor %}
 
+<div class="cv-service-title"><b>Institutional</b></div>
+{% for outreach in site.data.institutional-service %}
+{% include cv/educational-outreach.html outreach=outreach %}
+{% endfor %}
 <!-- <div class="cv-service-title"><b>Organizer</b></div>
 {% for venue in site.data.organizer %}
 {% include cv/venue.html venue=venue %}

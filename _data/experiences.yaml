@@ -3,6 +3,7 @@
   position: Data Engineer Intern
   group: "Autonomous Driving"
   year: "May 2022 — Aug. 2022"
+  description: "Designed end-to-end solution for collecting, processing, and querying of autonomous driving data for DL training. Developed Cloud Run Python server using FastAPI that connected to Google Cloud databases along with clients"
   institution-url: https://www.qualcomm.com/products/application/automotive
   type: industry
 
@@ -11,7 +12,9 @@
   position: Software Development Engineer Intern
   group: "Tax Team"
   year: "May 2021 — July 2021"
-  description: "Designed workflow to improve existing error identification system that validates all tax calculations for AWS users."
+  description: "
+  Designed workflow to improve existing error identification system that validates all tax calculations for AWS users. Implemented in Java, Rails, and internal tools, tested using JUnit and Mockito, and performed integration testing. Resolved pre-existing system issues and helped plan long-term solutions for improving root cause analysis 
+"
   institution-url: https://aws.amazon.com
   type: industry
 

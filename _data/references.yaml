@@ -15,3 +15,11 @@
   phd: true
   website: "https://mahdi-roozbahani.github.io"
   url: "https://mahdi-roozbahani.github.io"
+
+- name: Jake Vizzoni
+  position: Senior Staff Software Engineer
+  institution: Qualcomm
+  location: San Diego, CA, USA
+  phd: False
+  website: "https://www.linkedin.com/in/jake-vizzoni"
+  url: "https://www.linkedin.com/in/jake-vizzoni"
