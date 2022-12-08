@@ -17,7 +17,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am a co-head teaching assistant for Georgia Tech's undergraduate and graduate Machine Learning course (<a href="https://mahdi-roozbahani.github.io/CS46417641-spring2022/">CS4641 & CS7641</a>) where I was Georgia Tech's Undergraduate Teaching Assistant of the Year for 2022. If you're in my section and reading this, please feel free to reach out for anything &#8211; I won't bite.
+		I am a head teaching assistant for Georgia Tech's undergraduate and graduate Machine Learning course (<a href="https://mahdi-roozbahani.github.io/CS46417641-spring2022/">CS4641 & CS7641</a>) where I was Georgia Tech's Undergraduate Teaching Assistant of the Year for 2022. If you're in my section and reading this, please feel free to reach out for anything &#8211; I won't bite.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
