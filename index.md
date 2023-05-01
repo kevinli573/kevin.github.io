@@ -23,6 +23,10 @@ title: Home
 	<div class="intro-left">
 		I have worked at Amazon Web Services (AWS) as a Software Developer Engineer intern and Qualcomm's Autonomous Driving project as a Data Engineer intern. 
 	</div>
+	<div style="height: 1rem"></div>
+	<div class="intro-left">
+		I will be pursuing my Ph.D. in Machine Learning at Carnegie Mellon University's School of Computer Science in Fall 2023! 
+	</div>
 </div>
 
 <div class="intro-right">

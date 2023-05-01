@@ -1,3 +1,11 @@
+- name: Georgia Tech Provost’s Academic Excellence Award
+  description: "Selected to represent the College of Computing for most outstanding scholastic record"
+  year: Spring 2023
+
+- name: G.D. Jain Outstanding Senior in Biomedical Engineering Award
+  description: "Selected for exemplifying all-around excellence through their significant accomplishments in several of the following categories of activities: service, academics, research, industry, and entrepreneurship"
+  year: Spring 2023
+
 - name: CIKM 2022 NSF Travel Award
   description: "Selected to receive the CIKM 2022 NSF Travel Award"
   year: Fall 2022
