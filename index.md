@@ -9,23 +9,15 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I am a Computer Science and Biomedical Engineering undergrad at Georgia Tech. I am advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>, who is the PI of <a href="https://poloclub.github.io">Polo Club of Data Science</a>.
+		I am a first year Ph.D. student at CMU's Machine Learning Department co-advised by <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a>. I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		My interests encompass the intersection of <b>machine learning and human-computing interaction</b> and <b>deep learning</b>. I enjoy working on projects that utilize deep learning architectures or aim to interpret and understand how machine learning models learn.
+		I am interested in developing deep learning architectures and understanding how models learn and why various functionalities/artifacts may arise.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am a head teaching assistant for Georgia Tech's undergraduate and graduate Machine Learning course (<a href="https://mahdi-roozbahani.github.io/CS46417641-spring2022/">CS4641 & CS7641</a>) where I was Georgia Tech's Undergraduate Teaching Assistant of the Year for 2022. If you're in my section and reading this, please feel free to reach out for anything &#8211; I won't bite.
-	</div>
-	<div style="height: 1rem"></div>
-	<div class="intro-left">
-		I have worked at Amazon Web Services (AWS) as a Software Developer Engineer intern and Qualcomm's Autonomous Driving project as a Data Engineer intern. 
-	</div>
-	<div style="height: 1rem"></div>
-	<div class="intro-left">
-		I will be pursuing my Ph.D. in Machine Learning at Carnegie Mellon University's School of Computer Science in Fall 2023! 
+		I was a head teaching assistant for Georgia Tech's undergraduate and graduate Machine Learning course (<a href="https://mahdi-roozbahani.github.io/CS46417641-fall2022/">CS4641 & CS7641</a>) and had stints at Amazon Web Services (AWS) as a Software Developer Engineer intern and Qualcomm's Autonomous Driving project as a Data Engineer intern. 
 	</div>
 </div>
 

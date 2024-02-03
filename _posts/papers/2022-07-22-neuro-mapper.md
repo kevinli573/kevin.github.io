@@ -26,10 +26,10 @@ figure: /images/papers/22-neuromapper.png
 # highlight:
 selected: true
 featured: true
-feature-order: 2
+feature-order: 3
 feature-title: NeuroMapper
 feature-description: In-browser Visualization of Neural Network Training
-image: /images/papers/22-neuromapper.png
+# image: /images/papers/22-neuromapper.png
 
 bibtex: |-
 

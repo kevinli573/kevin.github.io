@@ -115,7 +115,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% assign journal = site.categories.papers | where: 'type', "journal" %}
 {% for pub in journal %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
+{% endfor %} --->
 
 ### Conference
 
@@ -124,6 +124,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
+<!---
 ### Workshop
 
 {% assign workshop = site.categories.papers | where: 'type', "workshop" %}

@@ -1,10 +1,13 @@
-# - degree: "Ph.D. in Computational Science & Engineering"
-#   institution: Georgia Institute of Technology
-#   location: "Atlanta, GA"
-#   advisor: Duen Horng (Polo) Chau
+- degree: "Ph.D. in Machine Learning"
+  years: "Aug. 2023 — Current"
+  institution: Carnegie Mellon University
+  location: "Pittsburgh, PA"
+  description:
+   - "Advised by Albert Gu and Zico Kolter"
+  institution-url: https://www.ml.cmu.edu
+
 #   co-advisor: Alex Endert
-#   years: "Dec. 2020 —"
-#   years-extra: "Aug. 2015"
+  # years-extra: "Aug. 2015"
 #   thesis: "Interactive Scalable Interfaces for Machine Learning Interpretability"
 #   thesis-video: https://youtu.be/TNH8RqyNfmo
 #   thesis-link: ../dissertation/
@@ -21,7 +24,7 @@
 #     - ACM SIGCHI Outstanding Dissertation Award
 #     - Georgia Tech College of Computing Dissertation Award
 - degree: "B.S. in Computer Science"
-  years: "Aug. 2019 - Present"
+  years: "Aug. 2019 - May 2023"
   # years-extra: "May 2023"
   institution: Georgia Institute of Technology
   location: "Atlanta, GA"
@@ -33,7 +36,7 @@
   institution-url: https://www.gatech.edu/
 
 - degree: "B.S. in Biomedical Engineering"
-  years: "Aug. 2019 - Present"
+  years: "Aug. 2019 - May 2023"
   # years-extra: "May 2023"
   institution: Georgia Institute of Technology
   location: "Atlanta, GA"

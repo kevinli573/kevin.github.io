@@ -26,15 +26,28 @@
   institution-url: https://gatech.com
   type: industry
 
+- institution: Carnegie Mellon University
+  location: "Pittsburgh, PA"
+  position: Graduate Research Assistant
+  # group: Polo Club of Data Science
+  year: "Oct. 2023 - Current"
+  mentors: 
+    - Albert Gu and Zico Kolter
+  advisor: true
+  # description: "Conducted research in machine learning, human-computer interaction, and the intersection of the two."
+  # institution-url: http://gatech.edu
+  # group-url: poloclub.github.io
+  type: academic
+
 - institution: Georgia Institute of Technology
   location: "Atlanta, GA"
   position: Undergraduate Research Assistant
   group: Polo Club of Data Science
-  year: "Aug. 2020 - Present"
+  year: "Aug. 2020 - May 2023"
   mentors: 
     - Duen Horng (Polo) Chau
   advisor: true
-  description: "Conducting research in machine learning, human-computer interaction, and the intersection of the two."
+  description: "Conducted research in machine learning, human-computer interaction, and the intersection of the two."
   institution-url: http://gatech.edu
   group-url: poloclub.github.io
   type: academic

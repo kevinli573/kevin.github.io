@@ -13,7 +13,7 @@ venue-shorthand: AAAI
 location: Washington DC, USA
 year: 2023
 url: /papers/imbalanced-vit
-# pdf: /papers/21-argo-scholar-poster.pdf
+pdf: /papers/23-aaai-imbvit.pdf
 # poster: /assets/argo_scholar_poster.pdf
 # code: https://github.com/poloclub/argo-scholar
 # award: Best Poster, Honorable Mention
@@ -24,11 +24,11 @@ type: poster
 # highlight:
 selected: true
 featured: true
-feature-order: 1
+feature-order: 2
 feature-title: Vision Transformer Robustness
 feature-description: Evaluating Robustness of Vision Transformers on Imbalanced Datasets
-image: /images/papers/coming-soon.png
-coming-soon: true
+# image: /images/papers/coming-soon.png
+coming-soon: false
 
 # bibtex: |-
 

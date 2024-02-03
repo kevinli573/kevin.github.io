@@ -20,7 +20,7 @@ venue-shorthand: CVPR
 location: Vancouver, Canada
 year: 2023
 url: /papers/diffusion-explainer
-pdf: 
+pdf: /papers/23-cvpr-diffusion-explainer.pdf
 poster: 
 code: https://poloclub.github.io/diffusion-explainer/
 type: demo

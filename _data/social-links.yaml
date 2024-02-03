@@ -7,10 +7,10 @@
   cv-group: 1
 
 - id: email
-  description: "kevin.li@gatech.edu"
+  description: "kyl2@cs.cmu.edu"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:kevin.li@gatech.edu"
+  url: "mailto:kyl2@cs.cmu.edu"
   on-homepage: true
   cv-group: 1
 

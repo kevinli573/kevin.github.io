@@ -27,10 +27,10 @@ figure: /images/papers/21-argo-scholar.png
 # highlight:
 selected: true
 featured: true
-feature-order: 2
+feature-order: 1
 feature-title: Argo Scholar
 feature-description: Exploration of Literature with Interactive Visualization
-image: /images/papers/21-argo-scholar.png
+# image: /images/papers/21-argo-scholar.png
 coming-soon: false
 
 bibtex: |-

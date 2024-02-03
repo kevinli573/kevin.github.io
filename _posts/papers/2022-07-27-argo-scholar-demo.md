@@ -25,12 +25,12 @@ figure: /images/papers/22-argo-scholar.png
 doi: "10.1145/3511808.3557177"
 
 # highlight:
-selected: true
-featured: true
-feature-order: 2
-feature-title: Argo Scholar
-feature-description: Visual Exploration of Literature with Argo Scholar
-image: /images/papers/22-argo-scholar.png
+selected: false
+featured: false
+# feature-order: 2
+# feature-title: Argo Scholar
+# feature-description: Visual Exploration of Literature with Argo Scholar
+# image: /images/papers/22-argo-scholar.png
 
 bibtex: |-
 
