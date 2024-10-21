@@ -28,7 +28,7 @@ jsarr:
 </div> -->
 
 <div>
-My interests encompass the intersection of <b>machine learning and human-computing interaction</b> and <b>deep learning</b>. I enjoy working on projects that utilize deep learning architectures or aim to interpret and understand how machine learning models learn.
+My interests lie in <b>efficient deep learning architectures</b>, such as compression, distillation, and sub-quadratic alternatives. I'm open to collaboration, so please reach out!
 </div>
 
 <!-- <div class="cv-spacer"></div>

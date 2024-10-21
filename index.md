@@ -13,7 +13,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am interested in developing deep learning architectures and understanding how models learn and why various functionalities/artifacts may arise. Please reach out if you are interested in collaborating!
+		I am interested in developing efficient deep learning architectures and understanding how models learn and why various functionalities/artifacts may arise. Please reach out if you are interested in collaborating!
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">

@@ -1,5 +1,23 @@
+- name: Albert Gu
+  position: Assistant Professor
+  group: Machine Learning Department
+  institution: Carnegie Mellon University
+  location: Pittsburgh, PA, USA
+  phd: true
+  website: "https://goombalab.github.io"
+  url: "https://goombalab.github.io"
+
+- name: Zico Kolter
+  position: Professor
+  group: Machine Learning Department
+  institution: Carnegie Mellon University
+  location: Pittsburgh, PA, USA
+  phd: true
+  website: "https://zicokolter.com"
+  url: "https://zicokolter.com"
+
 - name: Duen Horng (Polo) Chau
-  position: Associate Professor
+  position: Professor
   group: School of Computational Science and Engineering
   institution: Georgia Institute of Technology
   location: Atlanta, GA, USA
@@ -7,19 +25,19 @@
   website: "cc.gatech.edu/~dchau/"
   url: "https://cc.gatech.edu/~dchau/"
 
-- name: Mahdi Roozbahani
-  position: Lecturer
-  group: School of Computational Science and Engineering
-  institution: Georgia Institute of Technology
-  location: Atlanta, GA, USA
-  phd: true
-  website: "https://mahdi-roozbahani.github.io"
-  url: "https://mahdi-roozbahani.github.io"
+# - name: Mahdi Roozbahani
+#   position: Lecturer
+#   group: School of Computational Science and Engineering
+#   institution: Georgia Institute of Technology
+#   location: Atlanta, GA, USA
+#   phd: true
+#   website: "https://mahdi-roozbahani.github.io"
+#   url: "https://mahdi-roozbahani.github.io"
 
-- name: Jake Vizzoni
-  position: Senior Staff Software Engineer
-  institution: Qualcomm
-  location: San Diego, CA, USA
-  phd: False
-  website: "https://www.linkedin.com/in/jake-vizzoni"
-  url: "https://www.linkedin.com/in/jake-vizzoni"
+# - name: Jake Vizzoni
+#   position: Senior Staff Software Engineer
+#   institution: Qualcomm
+#   location: San Diego, CA, USA
+#   phd: False
+#   website: "https://www.linkedin.com/in/jake-vizzoni"
+#   url: "https://www.linkedin.com/in/jake-vizzoni"
