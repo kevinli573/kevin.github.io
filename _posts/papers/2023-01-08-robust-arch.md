@@ -29,7 +29,7 @@ type: conference
 # highlight:
 selected: true
 featured: true
-feature-order: 0
+feature-order: 1
 feature-title: Designing Adversarially Robust Architectures
 feature-description: A suite of generalizable robust architectural design principles
 # image: /images/papers/coming-soon.png

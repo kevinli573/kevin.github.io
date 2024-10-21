@@ -9,15 +9,15 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I am a first year Ph.D. student at CMU's Machine Learning Department co-advised by <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a>. I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>.
+		I am a second year Ph.D. student at CMU's Machine Learning Department, where I am fortunate enough to be co-advised by both <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a>. Previously, I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, where I had a wonderful time advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am interested in developing deep learning architectures and understanding how models learn and why various functionalities/artifacts may arise.
+		I am interested in developing deep learning architectures and understanding how models learn and why various functionalities/artifacts may arise. Please reach out if you are interested in collaborating!
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I was a head teaching assistant for Georgia Tech's undergraduate and graduate Machine Learning course (<a href="https://mahdi-roozbahani.github.io/CS46417641-fall2022/">CS4641 & CS7641</a>) and had stints at Amazon Web Services (AWS) as a Software Developer Engineer intern and Qualcomm's Autonomous Driving project as a Data Engineer intern. 
+		I have had stints at Amazon Web Services (AWS), Qualcomm, and Bosch in both engineering and research-focused roles. 
 	</div>
 </div>
 
