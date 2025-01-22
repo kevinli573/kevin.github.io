@@ -9,7 +9,7 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I am a second year Ph.D. student at CMU's Machine Learning Department, where I am fortunate enough to be co-advised by both <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a>. Previously, I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, where I had a wonderful time advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>.
+		I am a second year Ph.D. student at CMU's Machine Learning Department, where I am fortunate enough to be co-advised by both <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a>. Previously, I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, where I had a wonderful time advised by <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
