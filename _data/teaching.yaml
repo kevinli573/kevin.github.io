@@ -1,12 +1,23 @@
+- institution: Carnegie Mellon University
+  position: Teaching Assistant
+  location: "Pittsburgh, PA"
+  year: Fall 2024
+  class: "Introduction to Machine Learning (10-701)"
+  instructor: Geoff Gordon, Nina Balcan
+  # description: "Brainstormed, delegated, and implemented course improvements and oversaw assignment creation and checks. Wrote and graded ML theory and programming assignments for grad and undergrad classes with 750+ students in total. Helped guide, provide feedback, and grade semester-long group projects focused on applying ML to various fields."
+  # institution-url: http://gatech.edu
+  # class-url: https://mahdi-roozbahani.github.io/CS46417641-fall2022/
+  ta: true
+
 - institution: Georgia Institute of Technology
   position: Head Teaching Assistant
   location: "Atlanta, GA"
   year: Spring 2021 - Spring 2023
   class: "Machine Learning (CS 4641/7641)"
   instructor: Mahdi Roozbahani, Nakul Gopalan
-  description: "Brainstormed, delegated, and implemented course improvements and oversaw assignment creation and checks. Wrote and graded ML theory and programming assignments for grad and undergrad classes with 750+ students in total. Helped guide, provide feedback, and grade semester-long group projects focused on applying ML to various fields."
-  institution-url: http://gatech.edu
-  class-url: https://mahdi-roozbahani.github.io/CS46417641-fall2022/
+  # description: "Brainstormed, delegated, and implemented course improvements and oversaw assignment creation and checks. Wrote and graded ML theory and programming assignments for grad and undergrad classes with 750+ students in total. Helped guide, provide feedback, and grade semester-long group projects focused on applying ML to various fields."
+  # institution-url: http://gatech.edu
+  # class-url: https://mahdi-roozbahani.github.io/CS46417641-fall2022/
   ta: true
 
 - institution: Georgia Institute of Technology
@@ -15,6 +26,6 @@
   year: Spring 2019 - Fall 2020
   class: "Intro Physics II (PHYS 2212)"
   instructor: Ed Greco
-  description: "Assisted students during lab sections and debugging students' Python code during modeling assignments."
-  institution-url: http://gatech.edu
+  # description: "Assisted students during lab sections and debugging students' Python code during modeling assignments."
+  # institution-url: http://gatech.edu
   ta: true

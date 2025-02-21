@@ -18,7 +18,7 @@ venue-shorthand: BMVC
 location: Aberdeen, UK
 year: 2023
 url: /papers/robust-arch
-pdf: /papers/23-bmvc-robarch.pdf
+pdf: https://arxiv.org/abs/2308.16258
 # poster: /assets/argo_scholar_poster.pdf
 code: https://github.com/poloclub/robust-principles
 award: Best Poster

@@ -22,8 +22,8 @@ type: poster
 # doi: "10.48550/arXiv.2110.14060"
 
 # highlight:
-selected: true
-featured: true
+selected: false
+featured: false
 feature-order: 2
 feature-title: Vision Transformer Robustness
 feature-description: Evaluating Robustness of Vision Transformers on Imbalanced Datasets

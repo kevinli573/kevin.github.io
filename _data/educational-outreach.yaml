@@ -1,12 +1,12 @@
+- name: "CMU TechNights"
+  years: 2023, 2024
+  description: Developed and presented lesson plan and planned activities for STEM outreach program for female middle schoolers on deep learning/foundational model introduction
+  outreach-url: https://www.cmu.edu/scs/technights/
+
 - name: "CMU Graduate Application Support Program"
   years: 2023
   description: Mentored 2 PhD applicants from historically underrepresented groups with statement of purpose and application.
   outreach-url: https://www.cs.cmu.edu/academics/phd/application-support
-
-- name: "CMU TechNights"
-  years: 2023
-  description: Developed and presented lesson plan and planned activities for STEM outreach program for female middle schoolers on deep learning/foundational model introduction
-  outreach-url: https://www.cmu.edu/scs/technights/
 
 - name: "NVIDIA Deep Learning Institute"
   years: 2021
