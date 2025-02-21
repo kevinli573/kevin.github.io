@@ -28,7 +28,7 @@ jsarr:
 </div> -->
 
 <div>
-My interests lie in <b>efficient deep learning architectures</b>, such as compression, distillation, and sub-quadratic alternatives. I'm open to collaboration, so please reach out!
+My interests lie in <b>efficient deep learning architectures</b>, such as compression, distillation, and sub-quadratic alternatives, and <b>scaling inference compute</b> for reasoning and general performance improvements. I'm open to collaboration, so please reach out!
 </div>
 
 <!-- <div class="cv-spacer"></div>
@@ -65,35 +65,6 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/degree.html degree=degree %}
 {% endfor %}
 {:/}
-
-## Honors and Awards
-
-{% for award in site.data.awards %}
-{% include cv/award.html award=award %}
-{% endfor %}
-
-<!-- ## Industry Research Experience
-
-{% for experience in site.data.experiences %}
-{% if experience.type == 'industry' %}
-{% include cv/experience.html experience=experience %}
-{% endif %}
-{% endfor %} -->
-## Academic Research Experience
-
-{% for experience in site.data.experiences %}
-{% if experience.type == 'academic' %}
-{% include cv/experience.html experience=experience %}
-{% endif %}
-{% endfor %}
-
-## Industry Experience
-
-{% for experience in site.data.experiences %}
-{% if experience.type == 'industry' %}
-{% include cv/experience.html experience=experience %}
-{% endif %}
-{% endfor %}
 
 ## Publications
 
@@ -153,6 +124,34 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
+## Honors and Awards
+
+{% for award in site.data.awards %}
+{% include cv/award.html award=award %}
+{% endfor %}
+
+<!-- ## Industry Research Experience
+
+{% for experience in site.data.experiences %}
+{% if experience.type == 'industry' %}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %} -->
+## Academic Research Experience
+
+{% for experience in site.data.experiences %}
+{% if experience.type == 'academic' %}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %}
+
+## Industry Experience
+
+{% for experience in site.data.experiences %}
+{% if experience.type == 'industry' %}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %}
 
 <!-- ### Miscellaneous
 
