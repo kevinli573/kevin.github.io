@@ -9,7 +9,7 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I am a second year Ph.D. student at CMU's Machine Learning Department, where I am fortunate enough to be co-advised by both <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a>. Previously, I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, where I had a wonderful time advised by <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>.
+		I am a second year Ph.D. student at CMU's Machine Learning Department, where I am fortunate enough to be co-advised by both <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a> and supported by the NSF Graduate Research Fellowship. Previously, I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, where I had a wonderful time advised by <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
@@ -17,7 +17,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I have had stints at Amazon Web Services (AWS), Qualcomm, and Bosch in both engineering and research-focused roles. 
+		I am a current Student Researcher at Google Research. Previously, I have had stints at Amazon Web Services (AWS), Qualcomm, and Bosch in both engineering and research-focused roles. 
 	</div>
 </div>
 

@@ -1,3 +1,10 @@
+- institution: Google Research
+  location: "New York City, NY"
+  position: Student Researcher
+  year: "June 2025 — Present"
+  # description:
+  type: industry
+
 - institution: Bosch
   location: "Pittsburgh, PA"
   position: Machine Learning Research Intern
