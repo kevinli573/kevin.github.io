@@ -1,12 +1,19 @@
 - institution: Carnegie Mellon University
   position: Teaching Assistant
   location: "Pittsburgh, PA"
+  year: Fall 2025
+  class: "Intermediate Deep Learning (10-417/617)"
+  instructor: Ruslan Salakhutdinov 
+  # class-url: https://cmu-deeplearning.github.io/10417-25/index.html
+  ta: true
+
+- institution: Carnegie Mellon University
+  position: Teaching Assistant
+  location: "Pittsburgh, PA"
   year: Fall 2024
   class: "Introduction to Machine Learning (10-701)"
   instructor: Geoff Gordon, Nina Balcan
-  # description: "Brainstormed, delegated, and implemented course improvements and oversaw assignment creation and checks. Wrote and graded ML theory and programming assignments for grad and undergrad classes with 750+ students in total. Helped guide, provide feedback, and grade semester-long group projects focused on applying ML to various fields."
-  # institution-url: http://gatech.edu
-  # class-url: https://mahdi-roozbahani.github.io/CS46417641-fall2022/
+  # class-url: N/A
   ta: true
 
 - institution: Georgia Institute of Technology

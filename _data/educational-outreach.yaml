@@ -1,3 +1,8 @@
+- name: "CMU Paths to AI Research (PAIR)"
+  years: 2023, 2024, 2025
+  description: Mentored undergraduates on what AI research is about and how to get involved. 
+  outreach-url: https://sites.google.com/andrew.cmu.edu/ai-mentoring/
+
 - name: "CMU TechNights"
   years: 2023, 2024
   description: Developed and presented lesson plan and planned activities for STEM outreach program for female middle schoolers on deep learning/foundational model introduction
