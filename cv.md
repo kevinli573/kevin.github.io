@@ -228,10 +228,10 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/venue.html venue=venue %}
 {% endfor %} -->
 
-<!-- <div class="cv-service-title"><b>Reviewer</b></div>
+<div class="cv-service-title"><b>Reviewer</b></div>
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
-{% endfor %} -->
+{% endfor %}
 
 <!-- <div class="cv-service-title"><b>Institutional</b></div>
 {% for institution in site.data.institutional %}

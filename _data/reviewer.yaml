@@ -1,15 +1,25 @@
-- venue: ACM Conference on Human Factors in Computing Systems
-  venue-shorthand: CHI
+- venue: International Conference on Learning Representations
+  venue-shorthand: ICLR
   years:
-    - year: 2022
-      url: https://chi2022.acm.org/
-    - year: 2021
-      url: https://chi2021.acm.org/
-    - year: 2020
-      url: https://chi2020.acm.org
-    - year: 2019
-      url: https://chi2019.acm.org
-    - year: 2018
-      url: https://chi2018.acm.org
-    - year: 2017
-      url: https://chi2017.acm.org
+    - year: 2026
+
+- venue: Conference on Language Modeling
+  venue-shorthand: COLM
+  years:
+    - year: 2026
+
+# - venue: ACM Conference on Human Factors in Computing Systems
+#   venue-shorthand: CHI
+#   years:
+#     - year: 2022
+#       url: https://chi2022.acm.org/
+#     - year: 2021
+#       url: https://chi2021.acm.org/
+#     - year: 2020
+#       url: https://chi2020.acm.org
+#     - year: 2019
+#       url: https://chi2019.acm.org
+#     - year: 2018
+#       url: https://chi2018.acm.org
+#     - year: 2017
+#       url: https://chi2017.acm.org

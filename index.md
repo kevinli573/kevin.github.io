@@ -17,7 +17,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am a current Student Researcher at Google Research. Previously, I have had stints at Amazon Web Services (AWS), Qualcomm, and Bosch in both engineering and research-focused roles. 
+		I am an incoming Student Researcher at Google DeepMind. Previously, I was a Student Researcher at Google Research and a ML Research Intern at Bosch.
 	</div>
 </div>
 
