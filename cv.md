@@ -160,18 +160,18 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %} -->
 
-<!-- ## Talks
+## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
 {% include cv/talk.html talk=title %}
-{% endfor %} -->
+{% endfor %}
 
-## Press
+<!-- ## Press
 
 {% for press in site.data.press %}
 {% include cv/press.html press=press %}
-{% endfor %}
+{% endfor %} -->
 
 ## Teaching
 
