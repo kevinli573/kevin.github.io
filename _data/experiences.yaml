@@ -1,3 +1,10 @@
+- institution: Google DeepMind
+  location: "San Francisco, CA"
+  position: Student Researcher
+  year: "May 2026 — Present"
+  # description:
+  type: industry
+
 - institution: Google Research
   location: "New York City, NY"
   position: Student Researcher
