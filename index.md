@@ -9,15 +9,15 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I am a third year Ph.D. student at CMU's Machine Learning Department, where I am fortunate enough to be co-advised by both <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a> and supported by the NSF Graduate Research Fellowship. Previously, I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, where I had a wonderful time advised by <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>.
+		I am a fourth year Ph.D. student at CMU's Machine Learning Department, where I am fortunate enough to be co-advised by both <a href="https://twitter.com/_albertgu">Prof. Albert Gu</a> and <a href="https://zicokolter.com">Prof. Zico Kolter</a> and supported by the NSF Graduate Research Fellowship. Previously, I was a Computer Science and Biomedical Engineering undergrad at Georgia Tech, where I had a wonderful time advised by <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am interested in developing efficient deep learning architectures and methods and scaling inference compute for reasoning and general performance. Please reach out if you are interested in collaborating!
+		I am interested in developing better deep learning architectures and pretraining methods. Please reach out if you are interested in collaborating!
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am an incoming Student Researcher at Google DeepMind. Previously, I was a Student Researcher at Google Research and a ML Research Intern at Bosch.
+		This summer, I was a Student Researcher at Google DeepMind. Previously, I was a Student Researcher at Google Research and a ML Research Intern at Bosch.
 	</div>
 </div>
 

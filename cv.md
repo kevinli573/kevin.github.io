@@ -28,7 +28,7 @@ jsarr:
 </div> -->
 
 <div>
-My interests lie in <b>efficient deep learning architectures</b>, such as compression, distillation, and sub-quadratic alternatives, and <b>scaling inference compute</b> for reasoning and general performance improvements. I'm open to collaboration, so please reach out!
+My research and interest lie in <b>deep learning architectures</b>, such as efficient sub-quadratic alternatives and hybrid model design, and general <b>pretraining</b>, both science of and scaling. I'm open to collaboration, so please reach out!
 </div>
 
 <!-- <div class="cv-spacer"></div>

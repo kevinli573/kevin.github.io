@@ -8,6 +8,11 @@
   years:
     - year: 2026
 
+- venue: Conference on Neural Information Processing Systems
+  venue-shorthand: NeurIPS
+  years:
+    - year: 2026
+
 # - venue: ACM Conference on Human Factors in Computing Systems
 #   venue-shorthand: CHI
 #   years:

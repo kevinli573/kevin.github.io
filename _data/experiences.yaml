@@ -1,15 +1,15 @@
 - institution: Google DeepMind
   location: "San Francisco, CA"
   position: Student Researcher
-  year: "May 2026 — Present"
-  # description:
+  year: "May 2026 — Sep. 2026"
+  description: Hosted by Aditya Kusupati and Becca Roelofs
   type: industry
 
 - institution: Google Research
   location: "New York City, NY"
   position: Student Researcher
   year: "June 2025 — Apr. 2026"
-  # description:
+  description: Hosted by Ziteng Sun
   type: industry
 
 - institution: Bosch
