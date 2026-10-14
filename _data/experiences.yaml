@@ -16,7 +16,7 @@
   location: "Pittsburgh, PA"
   position: Machine Learning Research Intern
   year: "June 2024 — Nov. 2024"
-  # description:
+  description: Hosted by João D. Semedo
   type: industry
 
 - institution: Qualcomm
@@ -71,15 +71,15 @@
   group-url: poloclub.github.io
   type: academic
 
-- institution: Georgia Institute of Technology
-  location: "Atlanta, GA"
-  position: Student Researcher
-  group: Laboratory for Intelligent Decision and Autonomous Robots (LIDAR) Lab
-  year: "Jan. 2019 — Dec. 2019"
-  mentors: 
-    - Ye Zhao
-  advisor: true
-  description: "Worked on controlling cost-effective, physical model of the human hand."
-  institution-url: http://gatech.edu
-  group-url: https://lab-idar.gatech.edu
-  type: academic
+# - institution: Georgia Institute of Technology
+#   location: "Atlanta, GA"
+#   position: Student Researcher
+#   group: Laboratory for Intelligent Decision and Autonomous Robots (LIDAR) Lab
+#   year: "Jan. 2019 — Dec. 2019"
+#   mentors: 
+#     - Ye Zhao
+#   advisor: true
+#   description: "Worked on controlling cost-effective, physical model of the human hand."
+#   institution-url: http://gatech.edu
+#   group-url: https://lab-idar.gatech.edu
+#   type: academic
