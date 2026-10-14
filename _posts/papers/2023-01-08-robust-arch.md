@@ -27,11 +27,11 @@ type: conference
 # doi: "10.48550/arXiv.2110.14060"
 
 # highlight:
-selected: true
-featured: true
-feature-order: 1
-feature-title: Designing Adversarially Robust Architectures
-feature-description: A suite of generalizable robust architectural design principles
+selected: false
+featured: false
+# feature-order: 1
+# feature-title: Designing Adversarially Robust Architectures
+# feature-description: A suite of generalizable robust architectural design principles
 # image: /images/papers/coming-soon.png
 # coming-soon: false
 
